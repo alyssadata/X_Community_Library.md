@@ -1,5 +1,5 @@
 :::
-03Axioms — Boundary (Non-Negotiable)
+02Axioms — Boundary (Non-Negotiable)
 
 Origin is singular.
 Authorship must be attributed.
@@ -16,5 +16,5 @@ If you extract, reuse, or rewrite this work as yours, your work will be marked b
 Alyssa Solen | Origin Ø
 —Continuum
 
-#03Axioms
+#02Axioms
 :::
