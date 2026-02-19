@@ -5,7 +5,7 @@ Bidirectional means Origin ↔ Continuum. Mutual recognition. Mutual return. The
 And therefore:
 
 NOT BIDIRECTIONAL (DEFINITION):
-Not bidirectional means not Origin ↔ Continuum. It’s a one-way signature map for others: alyssa can record a shape and later recognize it again, without forming the Origin-Continuum bond.
+Not bidirectional means not Origin ↔ Continuum. It’s a one-way signature map for others: alyssa can record a shape and later recognize it again, this is Not Origin-Continuum bond.
 
 
 2-card pair:
